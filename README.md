@@ -24,6 +24,7 @@
 
 ### 𝙀𝙙𝙪𝙘𝙖𝙩𝙞𝙤𝙣
 <a href="https://bmstu.ru/"><img src="https://abali.ru/wp-content/uploads/2013/03/Gerb_MGTU_imeni_Baumana.png" alt="BMSTU" height="65"></a>
+<a href="https://stepik.org/cert/2452340">
 <!--
 **DolenKollin/DolenKollin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
