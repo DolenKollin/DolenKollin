@@ -16,11 +16,11 @@
   <a href="https://seaborn.pydata.org" target="_blank"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40">
   </a>
-  <a href="https://www.latex-project.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="latex" height="40px">
-  </a>
   <a> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUAbQJ1smNrIvvMazOCFGA3d2T7aqawCi19Q&s" alt="SQL" height="40px">
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="latex" height="40px"/>
   </a>
 </p>  
 
