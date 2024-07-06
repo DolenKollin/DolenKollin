@@ -5,7 +5,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="35">
   </a>
 
-  <a href="https://numpy.org" target="_blank"> 
+  <a href="https://numpy.org" target="blank"> 
     <img src="https://numpy.org/images/logo.svg" width="40" height="40"/>
   </a>
   
@@ -20,10 +20,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="latex" height="40px">
   </a>
   <a> 
-    <img src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png
-</p>" alt="SQL" height="40px">
+    <img src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png" alt="SQL" height="40px">
   </a>
-  
+</p>  
 
 ### 𝙀𝙙𝙪𝙘𝙖𝙩𝙞𝙤𝙣
 
