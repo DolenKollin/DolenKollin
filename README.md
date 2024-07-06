@@ -1,7 +1,7 @@
 # 𝘿𝙞𝙣𝙖 𝙆𝙞𝙧𝙮𝙖𝙣𝙤𝙫𝙖
 ### 𝙎𝙠𝙞𝙡𝙡𝙨
 <p> 
-  <a href="https://www.python.org" target="_blank"> 
+  <a href="https://www.python.org" target="blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="35">
   </a>
 
@@ -19,8 +19,11 @@
   <a href="https://www.latex-project.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="latex" height="40px">
   </a>
+  <a> 
+    <img src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png
+</p>" alt="SQL" height="40px">
+  </a>
   
-</p>
 
 ### 𝙀𝙙𝙪𝙘𝙖𝙩𝙞𝙤𝙣
 
