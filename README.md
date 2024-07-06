@@ -20,7 +20,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="latex" height="40px">
   </a>
   <a> 
-    <img src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png" alt="SQL" height="40px">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUAbQJ1smNrIvvMazOCFGA3d2T7aqawCi19Q&s" alt="SQL" height="40px">
   </a>
 </p>  
 
