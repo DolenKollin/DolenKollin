@@ -30,6 +30,9 @@
 <ul>
 <li>Stepik SQL course | <a href="https://stepik.org/cert/2452340" target="_blank">Certificate</a> (2024)</li>
 </ul>
+<ul>
+<li>KARPOV.COURSES "Симулятор SQL" | <a href="https://lab.karpov.courses/certificate/c1577ad2-413c-4e1f-bb23-62b1debaa2c4/" target="_blank">Certificate</a> (2024)</li>
+</ul>
 <!--
 **DolenKollin/DolenKollin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
